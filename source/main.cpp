@@ -1,3 +1,4 @@
+// main.cpp
 #include "AppController.h"
 #include <bdn/appInit.h>
 
